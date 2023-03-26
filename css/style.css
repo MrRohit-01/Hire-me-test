@@ -16,7 +16,7 @@
 
 .a1:focus{
     animation:main 2s infinite ease-in-out;
-    /* background-color: red; */
+    
 }
 .a2:focus{
     animation: main 2s infinite ease-in-out;

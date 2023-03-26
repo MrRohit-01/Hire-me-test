@@ -32,9 +32,9 @@
     animation:back 5s ease-in-out 2s infinite forwards forwards;
     background: linear-gradient( rgb(234, 46, 46), rgb(221, 221, 45), rgb(13, 225, 172));
 }
-.ob:focus{
-    /* animation: back 1s ease-in-out 2s infinite forwards forwards; */
-}
+/* .ob:focus{
+
+} */
 @keyframes back {
     0%{
         transform: rotate(0deg);
